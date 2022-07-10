@@ -27,3 +27,20 @@
     align-items: center;
     margin-top: 2rem;
 }
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.texto{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 1rem;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
